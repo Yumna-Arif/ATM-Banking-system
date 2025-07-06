@@ -86,4 +86,4 @@ Username: Salar    | PIN: 1515 | Balance: PKR 900
 ## ⭐ Star the Repo
 
 If you found this project helpful, please consider giving it a ⭐ on  
-👉 [GitHub – Waseem-Muhammad/ATM-Banking--System](https://github.com/Waseem-Muhammad/ATM-Banking--System)
+👉 [GitHub – Yumna-Arif/ATM-Banking-system](https://github.com/Yumna-Arif/ATM-Banking-system.git)
