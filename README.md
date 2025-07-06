@@ -33,7 +33,7 @@ This project simulates the core functionalities of an ATM machine including user
 
 ## 📁 Folder Structure
 
-bash
+```bash
 ATM-Banking-System/
 ├── src/
 │   └── main.cpp           # Main source code of the application
@@ -43,7 +43,7 @@ ATM-Banking-System/
 ├── .gitignore             # Git ignore rules (see below)
 └── LICENSE                # Optional open-source license (e.g., MIT)
 
-
+```
 ---
 
 ## 🔧 How to Run
@@ -57,12 +57,12 @@ ATM-Banking-System/
 
 ## 📝 Sample Users
 
-plaintext
+```plaintext
 Username: Waseem   | PIN: 1234 | Balance: PKR 1000
 Username: Anus     | PIN: 4321 | Balance: PKR 550
 Username: Ali      | PIN: 1122 | Balance: PKR 1150
 Username: Salar    | PIN: 1515 | Balance: PKR 900
-
+```
 ## 🎥 Project Demo
 
 📽 *Watch the full video explanation/demo here:*  
